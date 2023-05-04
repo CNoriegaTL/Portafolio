@@ -18,7 +18,7 @@ El proyecto 6 consiste en un portafolio donde se muestra mi perfil, los proyecto
 
 # Link para acceder a la App:
 
-- Netlify: Link
-- Github Pages: Link
+- Netlify: https://eclectic-fenglisu-045eb1.netlify.app/
+- Github Pages: 
 
 Creado por Cedric Noriega.
